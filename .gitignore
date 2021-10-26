@@ -8,11 +8,6 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
-src
-App.tsx
-babel.config.js
-package.json
-tsconfig.json
 
 # macOS
 .DS_Store
